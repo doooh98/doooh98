@@ -1,9 +1,9 @@
-# Welcome to DooOh Kim's GitHub
+## Welcome to DooOh Kim's GitHub
 
-## Education
+### Education
 * Virginia Tech B.S. CS '24 Minor in HCI
 
-## Experience
+### Experience
 * Nothing Yet
 
 ### Languages:
