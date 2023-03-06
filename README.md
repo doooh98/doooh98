@@ -6,14 +6,15 @@
 ## Experience
 * Nothing Yet
 
-I'm best reached via [email](doooh98@gmail.com) or [LinkedIn](https://www.linkedin.com/in/discord). I'm always open to interesting conversations and collaboration.
-
-Languages:
+###Languages:
 * C, Java, Python, Git, HTML, CSS, JavaScript
 
-Software Development Frameworks:
+###Software Development Frameworks:
 * Nothing Yet
 
-Data Science Frameworks:
+###Data Science Frameworks:
 * Nothing Yet
+
+I'm best reached via [email](doooh98@gmail.com) or [LinkedIn](https://www.linkedin.com/in/discord). I'm always open to interesting conversations and collaboration.
+
 
