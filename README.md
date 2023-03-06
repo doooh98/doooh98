@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to DooOh Kim's GitHub
 
-<!--
-**doooh98/doooh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education
+* Virginia Tech B.S. CS '24 Minor in HCI
 
-Here are some ideas to get you started:
+## Experience
+* Nothing Yet
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm best reached via [email](doooh98@gmail.com) or [LinkedIn](https://www.linkedin.com/in/discord). I'm always open to interesting conversations and collaboration.
+
+Languages:
+* C, Java, Python, Git, HTML, CSS, JavaScript
+
+Software Development Frameworks:
+* Nothing Yet
+
+Data Science Frameworks:
+* Nothing Yet
+
