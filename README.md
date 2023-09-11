@@ -10,10 +10,12 @@ Let's connect! I am a senior year Bachelor's student majoring in Computer Scienc
 * National Headhunting Agency(NHA) full-stack developer (created website: https://www.nhaamerica.com)
 
 ### Languages:
-* Python, SQL, Java, C, Javascript, HTML, CSS, Chrome Extension
+* Python, C, Java, SQL, JavaScript, CSS, HTML, RISC-V
+
 
 ### Software Development Frameworks:
-▪ Web Development Tools: Bootstrap, MySQL, SQLite, Git, Figma, Netlify, Chrome Extension
+▪ Web Development Tools: React, MongoDB, Node.js, Bootstrap, MySQL, SQLite, Git, Figma, Netlify
+
 
 I'm best reached via [email](doooh@vt.edu) or [LinkedIn](https://www.linkedin.com/in/discord). I'm always open to interesting conversations and collaboration.
 
