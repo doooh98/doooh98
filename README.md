@@ -3,7 +3,7 @@
 Let's connect! I am a senior year Bachelor's student majoring in Computer Science and minoring in Human-Computer Interaction at Virginia Tech. I am a resourceful software developer with 1 year of experience in academic research and industry in the US. I love learning new things, exposing myself to challenging problems, and solving them with my technical toolbox.
 
 ### Education
-* Virginia Tech B.S. CS '24 Minor in HCI
+* Virginia Tech B.S. CS '24 Minor in HCI          GPA:3.9/4.0
 
 ### Experience
 * Echolab researcher ([Youtube Overlay Comments](https://github.com/doooh98/Youtube-Overlay-Comments), P2P feedback)
