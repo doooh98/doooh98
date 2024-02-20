@@ -6,7 +6,7 @@ Let's connect! I am a senior year Bachelor's student majoring in Computer Scienc
 * Virginia Tech B.S. CS '24 Minor in HCI
 
 ### Experience
-* Echolab researcher (Youtube Overlay Comments, P2P feedback)
+* Echolab researcher ([Youtube Overlay Comments](https://github.com/doooh98/Youtube-Overlay-Comments), P2P feedback)
 * National Headhunting Agency(NHA) full-stack developer (created website: https://www.nhaamerica.com)
 
 ### Languages:
