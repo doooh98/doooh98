@@ -4,7 +4,7 @@ Let's connect! I am a senior year Bachelor's student majoring in Computer Scienc
 
 ### Education
 * Virginia Tech B.S. CS '24 Minor in HCI
-* GPA:     3.9/4.0
+* Major GPA:     3.82/4.0
 
 ### Experience
 * Echolab researcher ([Youtube Overlay Comments](https://github.com/doooh98/Youtube-Overlay-Comments), P2P feedback)
