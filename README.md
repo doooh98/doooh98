@@ -10,12 +10,16 @@ Let's connect! I am a senior year Bachelor's student majoring in Computer Scienc
 * Echolab researcher ([Youtube Overlay Comments](https://github.com/doooh98/Youtube-Overlay-Comments), P2P feedback)
 * National Headhunting Agency(NHA) full-stack developer (created website: https://www.nhaamerica.com)
 
-### Languages:
-* Python, C, Java, SQL, JavaScript, CSS, HTML
+### Skills:
+Programming Languages: Java, Python, JavaScript, C, SQL, RISC-V
 
+Languages: English(fluent), Korean(native), HTML(proficient), CSS(proficient)
 
-### Software Development Frameworks:
-▪ Web Development Tools: React, MongoDB, Node.js, Bootstrap, MySQL, SQLite, Git, Figma, Netlify
+Programming Tools: React, MongoDB, Node.js, Bootstrap, MySQL, Git, Figma, Netlify, Eclipse, VS code, ChromeExtension, J-Unit
+
+Office Tools: MS(Excel, Word, PowerPoint), Slack, Jira
+
+Research Tools: Zotero, Google Scholar
 
 
 I'm best reached via [email](doooh@vt.edu) or [LinkedIn](https://www.linkedin.com/in/discord). I'm always open to interesting conversations and collaboration.
