@@ -21,7 +21,7 @@ Office Tools: MS(Excel, Word, PowerPoint), Slack, Jira
 
 Research Tools: Zotero, Google Scholar
 
-<br>
+<br><br>
 I'm best reached via [email](doooh@vt.edu) or [LinkedIn](https://www.linkedin.com/in/discord). I'm always open to interesting conversations and collaboration.
 
 
